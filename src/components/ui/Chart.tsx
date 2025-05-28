@@ -65,3 +65,4 @@ Chart.displayName = 'Chart';
 
 export { Chart };
 export type { ChartDataPoint }; // Export type for usage
+
