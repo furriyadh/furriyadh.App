@@ -1,0 +1,115 @@
+{
+  "header": {
+    "solutions": "Solutions",
+    "integrations": "Integrations",
+    "resources": "Resources",
+    "pricing": "Pricing",
+    "login": "Login",
+    "getStarted": "Get Started",
+    "createAccount": "Create Free Account"
+  },
+  "hero": {
+    "title": "Let AI manage your ads",
+    "subtitle": "and attract more customers with ease.",
+    "description": "Launch your ads effortlessly across all major channels, watch them automatically optimize, and get the best results for your business.",
+    "cta": "Create Free Account",
+    "stats": "1168 companies registered last week!",
+    "partner": "Google Premier Partner 2025"
+  },
+  "features": {
+    "noExperience": {
+      "title": "No experience or huge budget needed",
+      "description": "New to online advertising? Learn how Furriyadh helps you achieve your advertising goals without the high costs of traditional solutions."
+    },
+    "campaigns": {
+      "title": "Create profitable ad campaigns in minutes",
+      "highPerformance": "High-performance ads. With ease.",
+      "highPerformanceDesc": "Create your ad campaigns like major brands in minutes. Discover the power of automation.",
+      "automation": "Furriyadh does all the work for you.",
+      "automationDesc": "Furriyadh handles everything, from ad targeting and copywriting to creating ad materials.",
+      "platforms": "Publish on all major advertising platforms.",
+      "platformsDesc": "We support all major advertising platforms to bring you the best return on investment."
+    },
+    "optimization": {
+      "title": "Get 24/7 optimization for your ads",
+      "description": "Furriyadh will optimize your ads around the clock across all channels. From pausing unsuccessful keywords, creating new ads for A/B testing, or suggesting new targeting, Furriyadh covers it all."
+    },
+    "dashboard": {
+      "title": "Stay in control with comprehensive dashboard",
+      "description": "Monitor your ad campaign performance or import your current campaigns for a unified data source. Compare channels, campaigns, and ads at a glance.",
+      "overview": "Monitor your campaign performance...",
+      "overviewDesc": "Create your campaigns from the dashboard, manage them, and get an overview of their performance and channels.",
+      "decisions": "... and make better data-driven decisions",
+      "decisionsDesc": "Monitor your campaign performance and get detailed insights about each one."
+    },
+    "budget": {
+      "title": "Manage all budgets from one place",
+      "description": "With Furriyadh balance, you can manage budgets across all advertising platforms easily and earn additional credit with each spending operation."
+    },
+    "integration": {
+      "title": "Import relevant assets with integration",
+      "description": "Integrate your various applications and synchronize all your valuable assets, such as email lists and product catalogs, to create profitable ads.",
+      "cta": "View all integrations"
+    },
+    "community": {
+      "title": "Join 20,000 small businesses on Furriyadh",
+      "description": "Join our vibrant community and experience the difference. Open growth opportunities that help elevate your business to the next level.",
+      "cta": "Create Free Account"
+    }
+  },
+  "testimonials": {
+    "title": "What our customers say",
+    "testimonial1": {
+      "text": "I used Furriyadh to advertise my solo business. I achieved excellent results and I'm happy with the automated tool and support plan.",
+      "author": "Brenton Miller"
+    },
+    "testimonial2": {
+      "text": "Furriyadh is like a digital marketing expert sitting next to me and saving me time by handling all the manual work!",
+      "author": "Alexander Skibinskiy"
+    },
+    "testimonial3": {
+      "text": "I started using Furriyadh for my business and I'm very satisfied. Special thanks to the support team for helping me!",
+      "author": "Baptiste Michiels"
+    }
+  },
+  "newsletter": {
+    "title": "Subscribe to the newsletter",
+    "description": "Stay updated with the latest features, news, and articles from Furriyadh. No spam. Ever.",
+    "placeholder": "Enter your email address...",
+    "button": "Subscribe"
+  },
+  "footer": {
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press & Media",
+      "contact": "Contact Us",
+      "blog": "Blog"
+    },
+    "product": {
+      "title": "Product",
+      "integrations": "Integrations",
+      "pricing": "Pricing",
+      "partners": "Partner Program",
+      "api": "Certified API",
+      "roadmap": "Product Roadmap"
+    },
+    "platforms": {
+      "title": "Platforms",
+      "google": "Google Ads",
+      "facebook": "Facebook Ads",
+      "instagram": "Instagram Ads",
+      "microsoft": "Microsoft Ads",
+      "twitter": "Twitter Ads"
+    },
+    "legal": {
+      "title": "Legal",
+      "cookies": "Cookie Policy",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "support": "Support Center"
+    },
+    "copyright": "Furriyadh. All rights reserved. 2025 ©"
+  }
+}

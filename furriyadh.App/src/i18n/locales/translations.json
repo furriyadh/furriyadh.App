@@ -1,0 +1,478 @@
+{
+  "ar": {
+    "header": {
+      "solutions": "الحلول",
+      "integrations": "التكاملات",
+      "resources": "الموارد",
+      "pricing": "الأسعار",
+      "login": "تسجيل الدخول",
+      "startNow": "ابدأ الآن"
+    },
+    "hero": {
+      "title1": "دع الذكاء الاصطناعي يدير إعلاناتك",
+      "title2": "ويجذب المزيد من العملاء بسهولة",
+      "description": "أطلق إعلاناتك بسهولة على جميع القنوات الرئيسية، شاهدها تُحسَّن تلقائيًا واحصل على أفضل النتائج لعملك",
+      "createAccount": "أنشئ حساباً مجانياً",
+      "companiesRegistered": "1168 شركة تم تسجيلها الأسبوع الماضي!"
+    },
+    "features": {
+      "title": "لا تحتاج إلى خبرة أو ميزانية ضخمة",
+      "subtitle": "جديد في عالم الذكاء الاصطناعي؟ تعرف على كيفية مساعدة Furriyadh لك على تحقيق أهدافك التسويقية دون التكاليف الباهظة للحلول التقليدية",
+      "easy": {
+        "title": "إعلانات عالية الأداء. بكل سهولة",
+        "description": "أنشئ حملاتك الإعلانية مثل أكبر العلامات التجارية في دقائق. اكتشف قوة الأتمتة"
+      },
+      "automation": {
+        "title": "الذكاء الاصطناعي يقوم بكل العمل نيابة عنك",
+        "description": "يتولى Furriyadh كل شيء، من استهداف الإعلانات وكتابة النصوص إلى إنشاء المواد الإعلانية"
+      },
+      "platforms": {
+        "title": "انشر على جميع المنصات الإعلانية الرئيسية",
+        "description": "ندعم جميع المنصات الإعلانية الرئيسية لجلب أفضل عائد على الاستثمار"
+      }
+    },
+    "testimonials": {
+      "title": "ماذا يقول عملاؤنا",
+      "first": {
+        "text": "بدأت باستخدام Furriyadh لعملي وأنا راضٍ جدًا. شكر خاص لفريق الدعم لمساعدتي!",
+        "author": "أحمد محمد، صاحب متجر"
+      },
+      "second": {
+        "text": "يشبه Furriyadh خبير التسويق الرقمي الذي يجلس بجانبي ويوفر علي الوقت من خلال القيام بكل الأعمال اليدوية!",
+        "author": "سارة علي، مديرة تسويق"
+      },
+      "third": {
+        "text": "استخدمت Furriyadh للإعلان عن عملي الذي أقوم به بمفردي. حققت نتائج ممتازة وأنا سعيد بالأداة الآلية وخطة الدعم",
+        "author": "خالد عبدالله، رائد أعمال"
+      }
+    },
+    "integrations": {
+      "title": "استيراد الأصول ذات الصلة مع التكامل",
+      "subtitle": "قم بدمج تطبيقاتك المختلفة ومزامنة جميع أصولك القيمة، مثل قوائم البريد الإلكتروني وقوائم المنتجات، لإنشاء إعلانات مربحة",
+      "viewAll": "عرض جميع التكاملات"
+    },
+    "community": {
+      "title": "انضم إلى 20,000 شركة صغيرة",
+      "subtitle": "على Furriyadh",
+      "description": "انضم إلى مجتمعنا النابض بالحياة واختبر الفرق. افتح فرص نمو تساعد على ارتقاء عملك للمستوى التالي",
+      "createAccount": "أنشئ حساباً مجانياً"
+    },
+    "footer": {
+      "description": "Furriyadh هي منصة إعلانية مدعومة بالذكاء الاصطناعي تساعد الشركات الصغيرة والمتوسطة على تحقيق أقصى استفادة من ميزانياتها الإعلانية",
+      "product": "المنتج",
+      "solutions": "الحلول",
+      "integrations": "التكاملات",
+      "pricing": "الأسعار",
+      "resources": "الموارد",
+      "company": "الشركة",
+      "about": "عن Furriyadh",
+      "careers": "الوظائف",
+      "blog": "المدونة",
+      "contact": "اتصل بنا",
+      "legal": "قانوني",
+      "terms": "الشروط والأحكام",
+      "privacy": "سياسة الخصوصية",
+      "cookies": "سياسة ملفات تعريف الارتباط",
+      "copyright": "جميع الحقوق محفوظة"
+    },
+    "solutions": {
+      "title": "حلول مخصصة لكل نوع من الأعمال",
+      "subtitle": "نقدم حلولاً مصممة خصيصاً لتلبية احتياجات مختلف أنواع الأعمال، من الشركات الصغيرة إلى وكالات التسويق الكبيرة",
+      "smallBusiness": {
+        "title": "الشركات الصغيرة",
+        "description": "حلول مبسطة وفعالة من حيث التكلفة للشركات الصغيرة والمتوسطة",
+        "feature1": "إعداد سريع وسهل للحملات",
+        "feature2": "أتمتة كاملة لتحسين الإعلانات",
+        "feature3": "تقارير مبسطة وسهلة الفهم"
+      },
+      "ecommerce": {
+        "title": "التجارة الإلكترونية",
+        "description": "حلول متقدمة لمتاجر التجزئة عبر الإنترنت لزيادة المبيعات",
+        "feature1": "تكامل مع منصات التجارة الإلكترونية الشهيرة",
+        "feature2": "إعلانات ديناميكية للمنتجات",
+        "feature3": "تتبع التحويلات والعائد على الاستثمار"
+      },
+      "agencies": {
+        "title": "وكالات التسويق",
+        "description": "أدوات متقدمة لإدارة حملات متعددة العملاء بكفاءة",
+        "feature1": "إدارة حسابات متعددة من لوحة تحكم واحدة",
+        "feature2": "تقارير مخصصة قابلة للمشاركة مع العملاء",
+        "feature3": "أدوات متقدمة للتحليل والتحسين"
+      },
+      "cta": {
+        "title": "جاهز لتنمية عملك؟",
+        "description": "انضم إلى آلاف الشركات التي تستخدم Furriyadh لتحسين حملاتها الإعلانية وزيادة عائد الاستثمار",
+        "button": "ابدأ الآن مجاناً"
+      }
+    },
+    "integrationsPage": {
+      "title": "تكاملات قوية لتعزيز حملاتك",
+      "subtitle": "اربط Furriyadh بالأدوات التي تستخدمها بالفعل لتحقيق أقصى استفادة من بياناتك وتحسين أداء حملاتك الإعلانية",
+      "advertising": "منصات الإعلانات",
+      "analytics": "التحليلات",
+      "crm": "إدارة علاقات العملاء",
+      "cta": {
+        "title": "هل تحتاج إلى تكامل مخصص؟",
+        "description": "تحدث مع فريقنا حول احتياجاتك الخاصة ونحن سنساعدك في إعداد التكامل المناسب",
+        "button": "تواصل معنا"
+      }
+    },
+    "resources": {
+      "title": "موارد لمساعدتك على النجاح",
+      "subtitle": "استكشف مجموعتنا من الأدلة والندوات عبر الإنترنت والموارد الأخرى لمساعدتك على تحقيق أقصى استفادة من Furriyadh",
+      "guides": {
+        "title": "أدلة وشروحات",
+        "item1": {
+          "title": "أساسيات الإعلان الرقمي للمبتدئين",
+          "description": "دليل شامل لفهم أساسيات الإعلان الرقمي وكيفية البدء"
+        },
+        "item2": {
+          "title": "كيفية تحسين حملاتك الإعلانية",
+          "description": "نصائح وتقنيات متقدمة لتحسين أداء حملاتك الإعلانية"
+        },
+        "item3": {
+          "title": "قياس العائد على الاستثمار في الإعلانات",
+          "description": "كيفية تتبع وقياس نجاح حملاتك الإعلانية بدقة"
+        }
+      },
+      "webinars": {
+        "title": "ندوات عبر الإنترنت",
+        "item1": {
+          "title": "مستقبل الإعلانات مع الذكاء الاصطناعي",
+          "description": "استكشف كيف يغير الذكاء الاصطناعي مشهد الإعلانات الرقمية"
+        },
+        "item2": {
+          "title": "عرض توضيحي لمنصة Furriyadh",
+          "description": "شاهد عرضاً حياً لكيفية استخدام منصة Furriyadh لتحسين حملاتك"
+        }
+      },
+      "readMore": "اقرأ المزيد",
+      "newsletter": {
+        "title": "اشترك في نشرتنا البريدية",
+        "description": "احصل على أحدث النصائح والأخبار والموارد مباشرة إلى بريدك الإلكتروني",
+        "placeholder": "أدخل بريدك الإلكتروني",
+        "button": "اشترك"
+      }
+    },
+    "pricing": {
+      "title": "خطط بسيطة وشفافة",
+      "subtitle": "اختر الخطة المناسبة لاحتياجات عملك، مع إمكانية الترقية أو التخفيض في أي وقت",
+      "month": "شهرياً",
+      "mostPopular": "الأكثر شعبية",
+      "getStarted": "ابدأ الآن",
+      "contactUs": "تواصل معنا",
+      "starter": {
+        "name": "المبتدئ",
+        "price": "$49",
+        "description": "مثالي للشركات الصغيرة التي تبدأ رحلتها الإعلانية",
+        "feature1": "منصة إعلانية واحدة",
+        "feature2": "ميزانية شهرية حتى $1,000",
+        "feature3": "تحسين أسبوعي للحملات",
+        "feature4": "دعم عبر البريد الإلكتروني"
+      },
+      "professional": {
+        "name": "المحترف",
+        "price": "$99",
+        "description": "للشركات النامية التي تحتاج إلى المزيد من القدرات",
+        "feature1": "3 منصات إعلانية",
+        "feature2": "ميزانية شهرية حتى $5,000",
+        "feature3": "تحسين يومي للحملات",
+        "feature4": "دعم عبر البريد الإلكتروني والدردشة",
+        "feature5": "تقارير مخصصة"
+      },
+      "enterprise": {
+        "name": "المؤسسات",
+        "price": "سعر مخصص",
+        "description": "للشركات الكبيرة والوكالات التي تحتاج إلى حلول متقدمة",
+        "feature1": "منصات إعلانية غير محدودة",
+        "feature2": "ميزانية شهرية غير محدودة",
+        "feature3": "تحسين مستمر للحملات",
+        "feature4": "مدير حساب مخصص",
+        "feature5": "تقارير متقدمة ومخصصة",
+        "feature6": "تكاملات API مخصصة"
+      },
+      "faq": {
+        "title": "الأسئلة الشائعة",
+        "q1": "هل يمكنني تغيير خطتي في أي وقت؟",
+        "a1": "نعم، يمكنك الترقية أو التخفيض في أي وقت. سيتم تعديل الفاتورة بشكل تناسبي.",
+        "q2": "هل هناك عقد طويل الأجل؟",
+        "a2": "لا، جميع خططنا تعمل على أساس شهري ويمكنك الإلغاء في أي وقت.",
+        "q3": "هل يمكنني تجربة المنصة قبل الدفع؟",
+        "a3": "نعم، نقدم نسخة تجريبية مجانية لمدة 14 يوماً لجميع الخطط.",
+        "q4": "ما هي طرق الدفع المقبولة؟",
+        "a4": "نقبل بطاقات الائتمان الرئيسية (فيزا، ماستركارد، أمريكان إكسبريس) وPayPal."
+      }
+    },
+    "login": {
+      "title": "تسجيل الدخول إلى حسابك",
+      "subtitle": "أدخل بيانات اعتماد حسابك للوصول إلى لوحة التحكم",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "أدخل كلمة المرور",
+      "forgotPassword": "نسيت كلمة المرور؟",
+      "loginButton": "تسجيل الدخول",
+      "noAccount": "ليس لديك حساب؟",
+      "createAccount": "إنشاء حساب",
+      "orContinueWith": "أو متابعة باستخدام"
+    },
+    "signup": {
+      "title": "إنشاء حساب جديد",
+      "subtitle": "ابدأ رحلتك مع Furriyadh اليوم",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "أدخل اسمك الكامل",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "company": "اسم الشركة (اختياري)",
+      "companyPlaceholder": "أدخل اسم شركتك",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "أدخل كلمة مرور قوية",
+      "agreeTerms": "أوافق على",
+      "termsLink": "الشروط والأحكام",
+      "and": "و",
+      "privacyLink": "سياسة الخصوصية",
+      "createAccountButton": "إنشاء حساب",
+      "haveAccount": "لديك حساب بالفعل؟",
+      "loginLink": "تسجيل الدخول",
+      "orContinueWith": "أو متابعة باستخدام"
+    }
+  },
+  "en": {
+    "header": {
+      "solutions": "Solutions",
+      "integrations": "Integrations",
+      "resources": "Resources",
+      "pricing": "Pricing",
+      "login": "Login",
+      "startNow": "Start Now"
+    },
+    "hero": {
+      "title1": "Let AI manage your ads",
+      "title2": "and attract more customers easily",
+      "description": "Launch your ads easily on all major channels, watch them automatically optimize, and get the best results for your business",
+      "createAccount": "Create a free account",
+      "companiesRegistered": "1168 companies registered last week!"
+    },
+    "features": {
+      "title": "No expertise or huge budget needed",
+      "subtitle": "New to AI? Learn how Furriyadh can help you achieve your marketing goals without the high costs of traditional solutions",
+      "easy": {
+        "title": "High-performing ads. With ease.",
+        "description": "Create your ad campaigns like the biggest brands in minutes. Discover the power of automation."
+      },
+      "automation": {
+        "title": "AI does all the work for you",
+        "description": "Furriyadh handles everything, from ad targeting and copywriting to creating ad materials"
+      },
+      "platforms": {
+        "title": "Publish on all major ad platforms",
+        "description": "We support all major advertising platforms to bring the best return on investment"
+      }
+    },
+    "testimonials": {
+      "title": "What our customers say",
+      "first": {
+        "text": "I started using Furriyadh for my business and I'm very satisfied. Special thanks to the support team for helping me!",
+        "author": "Ahmed Mohammed, Store Owner"
+      },
+      "second": {
+        "text": "Furriyadh is like a digital marketing expert sitting next to me and saving me time by doing all the manual work!",
+        "author": "Sarah Ali, Marketing Manager"
+      },
+      "third": {
+        "text": "I used Furriyadh to advertise my solo business. I achieved excellent results and I'm happy with the automated tool and support plan",
+        "author": "Khalid Abdullah, Entrepreneur"
+      }
+    },
+    "integrations": {
+      "title": "Import relevant assets with integration",
+      "subtitle": "Integrate your various applications and synchronize all your valuable assets, such as email lists and product catalogs, to create profitable ads",
+      "viewAll": "View all integrations"
+    },
+    "community": {
+      "title": "Join 20,000 small businesses",
+      "subtitle": "on Furriyadh",
+      "description": "Join our vibrant community and experience the difference. Open growth opportunities that help take your business to the next level",
+      "createAccount": "Create a free account"
+    },
+    "footer": {
+      "description": "Furriyadh is an AI-powered advertising platform that helps small and medium-sized businesses get the most out of their advertising budgets",
+      "product": "Product",
+      "solutions": "Solutions",
+      "integrations": "Integrations",
+      "pricing": "Pricing",
+      "resources": "Resources",
+      "company": "Company",
+      "about": "About Furriyadh",
+      "careers": "Careers",
+      "blog": "Blog",
+      "contact": "Contact Us",
+      "legal": "Legal",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "copyright": "All rights reserved"
+    },
+    "solutions": {
+      "title": "Tailored solutions for every business type",
+      "subtitle": "We offer solutions specifically designed to meet the needs of different types of businesses, from small companies to large marketing agencies",
+      "smallBusiness": {
+        "title": "Small Businesses",
+        "description": "Simple and cost-effective solutions for small and medium-sized businesses",
+        "feature1": "Quick and easy campaign setup",
+        "feature2": "Full automation for ad optimization",
+        "feature3": "Simplified and easy-to-understand reports"
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "description": "Advanced solutions for online retailers to increase sales",
+        "feature1": "Integration with popular e-commerce platforms",
+        "feature2": "Dynamic product ads",
+        "feature3": "Conversion tracking and ROI"
+      },
+      "agencies": {
+        "title": "Marketing Agencies",
+        "description": "Advanced tools to efficiently manage multi-client campaigns",
+        "feature1": "Manage multiple accounts from one dashboard",
+        "feature2": "Custom reports shareable with clients",
+        "feature3": "Advanced analysis and optimization tools"
+      },
+      "cta": {
+        "title": "Ready to grow your business?",
+        "description": "Join thousands of companies using Furriyadh to optimize their ad campaigns and increase ROI",
+        "button": "Start for free now"
+      }
+    },
+    "integrationsPage": {
+      "title": "Powerful integrations to enhance your campaigns",
+      "subtitle": "Connect Furriyadh with the tools you already use to maximize your data and improve your ad campaign performance",
+      "advertising": "Advertising Platforms",
+      "analytics": "Analytics",
+      "crm": "Customer Relationship Management",
+      "cta": {
+        "title": "Need a custom integration?",
+        "description": "Talk to our team about your specific needs and we'll help you set up the right integration",
+        "button": "Contact Us"
+      }
+    },
+    "resources": {
+      "title": "Resources to help you succeed",
+      "subtitle": "Explore our collection of guides, webinars, and other resources to help you get the most out of Furriyadh",
+      "guides": {
+        "title": "Guides & Tutorials",
+        "item1": {
+          "title": "Digital Advertising Basics for Beginners",
+          "description": "A comprehensive guide to understanding the basics of digital advertising and how to get started"
+        },
+        "item2": {
+          "title": "How to Optimize Your Ad Campaigns",
+          "description": "Advanced tips and techniques to improve the performance of your ad campaigns"
+        },
+        "item3": {
+          "title": "Measuring ROI in Advertising",
+          "description": "How to accurately track and measure the success of your ad campaigns"
+        }
+      },
+      "webinars": {
+        "title": "Webinars",
+        "item1": {
+          "title": "The Future of Advertising with AI",
+          "description": "Explore how AI is changing the digital advertising landscape"
+        },
+        "item2": {
+          "title": "Furriyadh Platform Demo",
+          "description": "Watch a live demonstration of how to use the Furriyadh platform to optimize your campaigns"
+        }
+      },
+      "readMore": "Read More",
+      "newsletter": {
+        "title": "Subscribe to our newsletter",
+        "description": "Get the latest tips, news, and resources directly to your email",
+        "placeholder": "Enter your email",
+        "button": "Subscribe"
+      }
+    },
+    "pricing": {
+      "title": "Simple and transparent plans",
+      "subtitle": "Choose the plan that suits your business needs, with the ability to upgrade or downgrade at any time",
+      "month": "monthly",
+      "mostPopular": "Most Popular",
+      "getStarted": "Get Started",
+      "contactUs": "Contact Us",
+      "starter": {
+        "name": "Starter",
+        "price": "$49",
+        "description": "Perfect for small businesses starting their advertising journey",
+        "feature1": "One advertising platform",
+        "feature2": "Monthly budget up to $1,000",
+        "feature3": "Weekly campaign optimization",
+        "feature4": "Email support"
+      },
+      "professional": {
+        "name": "Professional",
+        "price": "$99",
+        "description": "For growing businesses that need more capabilities",
+        "feature1": "3 advertising platforms",
+        "feature2": "Monthly budget up to $5,000",
+        "feature3": "Daily campaign optimization",
+        "feature4": "Email and chat support",
+        "feature5": "Custom reports"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom pricing",
+        "description": "For large companies and agencies that need advanced solutions",
+        "feature1": "Unlimited advertising platforms",
+        "feature2": "Unlimited monthly budget",
+        "feature3": "Continuous campaign optimization",
+        "feature4": "Dedicated account manager",
+        "feature5": "Advanced and custom reports",
+        "feature6": "Custom API integrations"
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Can I change my plan at any time?",
+        "a1": "Yes, you can upgrade or downgrade at any time. Your bill will be adjusted proportionally.",
+        "q2": "Is there a long-term contract?",
+        "a2": "No, all our plans work on a monthly basis and you can cancel at any time.",
+        "q3": "Can I try the platform before paying?",
+        "a3": "Yes, we offer a free 14-day trial for all plans.",
+        "q4": "What payment methods are accepted?",
+        "a4": "We accept major credit cards (Visa, Mastercard, American Express) and PayPal."
+      }
+    },
+    "login": {
+      "title": "Log in to your account",
+      "subtitle": "Enter your account credentials to access the dashboard",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot password?",
+      "loginButton": "Log In",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create an account",
+      "orContinueWith": "Or continue with"
+    },
+    "signup": {
+      "title": "Create a new account",
+      "subtitle": "Start your journey with Furriyadh today",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "company": "Company Name (optional)",
+      "companyPlaceholder": "Enter your company name",
+      "password": "Password",
+      "passwordPlaceholder": "Enter a strong password",
+      "agreeTerms": "I agree to the",
+      "termsLink": "Terms & Conditions",
+      "and": "and",
+      "privacyLink": "Privacy Policy",
+      "createAccountButton": "Create Account",
+      "haveAccount": "Already have an account?",
+      "loginLink": "Log In",
+      "orContinueWith": "Or continue with"
+    }
+  }
+}

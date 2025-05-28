@@ -1,0 +1,26 @@
+# Components Documentation
+
+This directory contains all the reusable React components for the Furriyadh application.
+
+## Structure
+
+-   `/layout`: Contains components responsible for the overall page structure (e.g., Header, Footer, Sidebar).
+-   `/ui`: Contains generic, reusable UI elements (e.g., Button, Card, Input, Table, Chart) styled with Tailwind CSS, often inspired by shadcn/ui patterns for composability and customization.
+
+## Usage
+
+Each component is designed to be imported and used directly in pages or other components.
+
+```tsx
+// Example: Using the Button component
+import { Button } from "@/components/ui/Button"; // Assuming alias setup
+// or
+import { Button } from "../components/ui/Button";
+
+function MyComponent() {
+  return (
+    <Button variant="destructive" size="sm" onClick={() => alert("Clicked!")}>
+      Delete
+    </Button>
+  );
+}
