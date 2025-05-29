@@ -12,7 +12,8 @@ import {
   TableCell,
   TableCaption,
 } from '../components/ui/Table';
-import { Chart, ChartDataPoint } from '../components/ui/Chart';
+import { Chart } from '../components/ui/Chart';
+import type { ChartDataPoint } from '../components/ui/Chart';
 
 // Sample data for the chart
 const sampleChartData: ChartDataPoint[] = [

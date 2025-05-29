@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Routes, Route } from 'react-router-dom'; // Import Routes and Route
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
@@ -16,9 +16,9 @@ import ComponentTestPage from './pages/ComponentTestPage'; // Keep the test page
 function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
-  const toggleSidebar = () => {
-    setIsSidebarOpen(!isSidebarOpen);
-  };
+  // const toggleSidebar = () => {
+  //   setIsSidebarOpen(!isSidebarOpen);
+  // };
 
   return (
     <div className="flex flex-col min-h-screen">
