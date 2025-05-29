@@ -14,7 +14,7 @@ import ContactPage from './pages/ContactPage';
 import ComponentTestPage from './pages/ComponentTestPage'; // Keep the test page
 
 function App() {
-  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+  // const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   // const toggleSidebar = () => {
   //   setIsSidebarOpen(!isSidebarOpen);
