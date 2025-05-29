@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { Routes, Route } from 'react-router-dom'; // Import Routes and Route
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
@@ -25,8 +24,8 @@ function App() {
       {/* TODO: Add toggle button in Header */}
       <Header />
       <div className="flex flex-1">
-        <Sidebar isOpen={isSidebarOpen} />
-        <main className={`flex-1 p-4 ${isSidebarOpen ? 'ml-64' : ''} transition-all duration-300 ease-in-out`}>
+        <Sidebar isOpen={false} />
+        <main className="flex-1 p-4 transition-all duration-300 ease-in-out">
           {/* Define Routes */}
           <Routes>
             <Route path="/" element={<HomePage />} />
